@@ -3,3 +3,4 @@
 2. Hệ thống tín hiệu giao dịch XAU/USD, khung 15m [```Link repo```](https://github.com/phucoding286/xau-trading-signal-15m-algo) (Hổ trợ bot OKX) (Tối ưu cho sàn crypto)
 3. Hệ thống tín hiệu giao dịch XAU/USD, khung 15m [```Link repo```](https://github.com/phucoding286/xau-trading-signal-15m-algo-fx) (Tối ưu cho sàn FX)
 4. Hệ thống tín hiệu giao dịch EUR/USD, khung 15m [```Link repo```](https://github.com/phucoding286/eur-trading-signal-15m-algo-fx) (Tối ưu cho sàn FX)
+5. Hệ thống tín hiệu giao dịch WTI(USOIL)/USD, khung 15m [```Link repo```](https://github.com/phucoding286/wti-crude-oil-trading-signal-15m-algo-fx) (Tối ưu cho sàn FX)
