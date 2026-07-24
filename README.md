@@ -8,3 +8,4 @@
    
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
 1. [Bot trade OKX, tự động mở lệnh theo tín hiệu.](https://github.com/phucoding286/okx-bot-trade) (Created by Phu)
+2. [Bot gửi tín hiệu qua Telegram.](https://github.com/phucoding286/telegram-trading-signal-bot) (Chỉ hổ trợ cho các Hệ thống tối ưu cho sàn FX) (Created by Phu)
