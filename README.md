@@ -11,4 +11,4 @@
 2. [Bot gửi tín hiệu qua Telegram.](https://github.com/phucoding286/telegram-trading-signal-bot) (Chỉ hổ trợ cho các Hệ thống tối ưu cho sàn FX) (Created by Phu)
 
 ## Lưu ý quan trọng.
-1. Tránh dùng các tín hiệu xuyên qua cuối tuần, ví dụ hôm thứ sáu bạn quyết định dừng trade và đợi qua cuối tuần, nhưng hệ thống báo một tín hiệu LONG hoặc SHORT gì đó, bạn bỏ qua, sang thứ hai nó vẫn giữ tín hiệu đấy thì không nên vào lệnh ngay, hãy đợi sang ngày thứ ba hay gì đó để giá chạy đủ.
+1. Tránh dùng các tín hiệu xuyên qua cuối tuần, ví dụ hôm thứ sáu bạn quyết định dừng trade và đợi qua cuối tuần, nhưng hệ thống báo một tín hiệu LONG hoặc SHORT gì đó, bạn bỏ qua do cuối tuần không trade, sang thứ hai nó vẫn giữ tín hiệu đấy thì không nên vào lệnh ngay, hãy đợi tín hiệu mới để trade.
