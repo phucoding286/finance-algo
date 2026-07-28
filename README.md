@@ -12,4 +12,4 @@
 
 ## Lưu ý quan trọng.
 1. Tránh dùng các tín hiệu xuyên qua cuối tuần, ví dụ hôm thứ sáu bạn quyết định dừng trade và đợi qua cuối tuần, nhưng hệ thống báo một tín hiệu LONG hoặc SHORT gì đó, bạn bỏ qua do cuối tuần không trade, sang thứ hai nó vẫn giữ tín hiệu đấy thì không nên vào lệnh ngay, hãy đợi tín hiệu mới để trade.
-1. Đường dẫn ```C:\SIGNAL_LOG``` chính là folder chứa các file cache tín hiệu, nếu sau này có lỗi hay vấn đề gì có thể xóa folder này để reset lại.
+1. Đường dẫn ```C:\SIGNAL_LOG``` chính là folder chứa các file cache tín hiệu của tất cả thuật toán định lượng ở trên, nếu sau này có lỗi hay vấn đề gì có thể xóa folder này để reset lại.
