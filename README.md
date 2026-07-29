@@ -7,6 +7,7 @@
 6. Hệ thống tín hiệu giao dịch USD/JPY, khung 15m [```Link repo```](https://github.com/phucoding286/usd-jpy-trading-signal-15m-algo-fx) (Tối ưu cho sàn FX)
 7. Hệ thống tín hiệu giao dịch EUR/USD, khung 5m [```Link repo```](https://github.com/phucoding286/eur-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
 8. Hệ thống tín hiệu giao dịch USD/JPY, khung 5m [```Link repo```](https://github.com/phucoding286/usd-jpy-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
+9. Hệ thống tín hiệu giao dịch XAU/USD, khung 5m [```Link repo```](https://github.com/phucoding286/xau-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
    
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
 1. [Bot trade OKX, tự động mở lệnh theo tín hiệu.](https://github.com/phucoding286/okx-bot-trade) (Created by Phu) (Project đã bị hỏng, không nên dùng!)
