@@ -17,4 +17,4 @@
 ## Lưu ý quan trọng.
 1. Tránh dùng các tín hiệu xuyên qua cuối tuần, ví dụ hôm thứ sáu bạn quyết định dừng trade và đợi qua cuối tuần, nhưng hệ thống báo một tín hiệu LONG hoặc SHORT gì đó, bạn bỏ qua do cuối tuần không trade, sang thứ hai nó vẫn giữ tín hiệu đấy thì không nên vào lệnh ngay, hãy đợi tín hiệu mới để trade.
 2. Đường dẫn ```C:\SIGNAL_LOG``` chính là folder chứa các file cache tín hiệu của tất cả thuật toán định lượng ở trên, nếu sau này có lỗi hay vấn đề gì có thể xóa folder này để reset lại.
-3. Các thuật toán cho chart 15m đợi tín hiệu khá lâu, và không có tín hiệu vào lệnh nhiều và vì khoảng giá rộng hơn nên khiến sl và tp xa hơn, bạn có thể không nên dùng 15m nếu không muốn đợi quá nhiều hoặc tài khoản còn nhỏ, ưu tiên dùng các thuật toán tối ưu cho 5m.
+3. Các thuật toán cho chart 15m đợi tín hiệu khá lâu, và không có tín hiệu vào lệnh nhiều và vì khoảng giá rộng hơn nên khiến sl và tp xa hơn bạn có thể phải đợi lâu hơn để tp, khiến lệnh dễ bị sl hơn do giá quay ngược, bạn có thể không nên dùng 15m nếu không muốn đợi quá nhiều hoặc tài khoản còn nhỏ, ưu tiên dùng các thuật toán tối ưu cho 5m.
