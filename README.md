@@ -1,5 +1,6 @@
 ## Gợi ý, truy cập nguồn [```HistData.com```](https://www.histdata.com/) để tải các loại dữ liệu cặp tiền mới nhất.
 - Hệ thống tín hiệu giao dịch EUR/USD, khung 5m [```Link repo```](https://github.com/phucoding286/eur-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
+- Hệ thống tín hiệu giao dịch USD/JPY, khung 5m [```Link repo```](https://github.com/phucoding286/usd-jpy-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
 - Hệ thống tín hiệu giao dịch XAU/USD, khung 5m [```Link repo```](https://github.com/phucoding286/xau-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
    
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
@@ -7,3 +8,4 @@
 
 ## Lưu ý quan trọng.
 1. Đường dẫn ```C:\SIGNAL_LOG``` chính là folder chứa các file cache tín hiệu của tất cả thuật toán định lượng ở trên, nếu sau này có lỗi hay vấn đề gì có thể xóa folder này để reset lại.
+2. Chọn một trong số các algorithm trên và chạy, chỉ trade một thị trường duy nhất, không nên trade nhiều thị trường song song, vì đa số có tương quan ở một mức độ nào đó, tốt nhất nên chọn một hệ thống cho một thị trường và tập trung chạy.
