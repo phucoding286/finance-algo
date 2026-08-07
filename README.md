@@ -6,7 +6,8 @@
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
 1. [Bot gửi tín hiệu qua Telegram.](https://github.com/phucoding286/telegram-trading-signal-bot) (Chỉ hổ trợ cho các Hệ thống tối ưu cho sàn FX) (Created by Phu)
 
-## Lưu ý quan trọng.
+## Hướng dẫn sử dụng chi tiết và các lưu ý.
 1. Đường dẫn ```C:\SIGNAL_LOG``` chính là folder chứa các file cache tín hiệu của tất cả thuật toán định lượng ở trên, nếu sau này có lỗi hay vấn đề gì có thể xóa folder này để reset lại.
-2. Chọn một trong số các algorithm trên và chạy, chỉ trade một thị trường duy nhất, không nên trade nhiều thị trường song song, vì đa số có tương quan ở một mức độ nào đó, tốt nhất nên chọn một hệ thống cho một thị trường và tập trung chạy.
+2. Chọn một trong số các algorithm trên và chạy, chỉ trade một thị trường duy nhất, không nên trade nhiều thị trường song song, vì đa số có tương quan ở một mức độ nào đó, tốt nhất nên chọn một hệ thống cho một thị trường và tập trung chạy, hoặc chạy nhiều thuật toán, nhưng mỗi lần chỉ nên mở một vị thế.
 3. Tăng trưởng vốn nhanh bằng lãi suất kép, ví dụ bạn có 400 đô, hãy đi với rủi ro là 5-10% vốn (tùy thuộc vào khẩu vị rủi ro) và reward nhận lại có thể là xấp xỉ rủi ro, ví dụ bạn có 400 đô, đi 5% risk là 20 đô, reward nhận lại là 20 đô, sau 1 tháng, bạn đi 10 lệnh, và hệ thống có 70% winrate, thì giả định bạn win 7/10 lệnh, thì bạn có thể nhận về 140 đô lãi, dùng công thức tính ```(10 * 20) - (20 * (10 - 7))```, sau cùng bạn được 540 đô, thay vì đi 20 đô ban đầu, tháng sau bạn có thể đi 25-27 đô, vì 5% của 540 đô lúc đó không còn là 20 đô nữa.
+4. Lời khuyên quản trị giao dịch của tác giả, bạn nên mở 1 lệnh cho mỗi ngày, không ai cấm bạn mở nhiều lệnh trong một ngày, tuy nhiên việc khai thác cùng một cấu trúc thị trường trong một khoảng thời gian cụ thể rất rủi ro, tốt nhất nên mỗi ngày trade một lệnh và cho thị trường thời gian để tạo cấu trúc mới.
