@@ -1,9 +1,17 @@
 ## Gợi ý, truy cập nguồn [```HistData.com```](https://www.histdata.com/) để tải các loại dữ liệu cặp tiền mới nhất.
-- Hệ thống tín hiệu giao dịch EUR/USD, khung 5m [```Link repo```](https://github.com/phucoding286/eur-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
-- Hệ thống tín hiệu giao dịch CAD/JPY, khung 5m [```Link repo```](https://github.com/phucoding286/cad-jpy-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
-- Hệ thống tín hiệu giao dịch GBP/CHF, khung 5m [```Link repo```](https://github.com/phucoding286/gbp-chf-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
-- Hệ thống tín hiệu giao dịch AUD/NZD, khung 5m [```Link repo```](https://github.com/phucoding286/aud-nzd-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
-- Hệ thống tín hiệu giao dịch XAU/USD, khung 1m [```Link repo```](https://github.com/phucoding286/xau-trading-signal-1m-algo-fx) (Tối ưu cho sàn FX)
+
+1. Các thuật toán giao dịch thuộc mô hình MA Heads và R/S Detector.
+   - Các thuật toán cho khung M5.
+       - Mô hình MA Heads đã optimized cho EUR/USD, khung M5 [```Link repo```](https://github.com/phucoding286/eur-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
+       - Mô hình MA Heads đã optimized cho CAD/JPY, khung M5 [```Link repo```](https://github.com/phucoding286/cad-jpy-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
+       - Mô hình MA Heads đã optimized cho GBP/CHF, khung M5 [```Link repo```](https://github.com/phucoding286/gbp-chf-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
+       - Mô hình MA Heads đã optimized cho AUD/NZD, khung M5 [```Link repo```](https://github.com/phucoding286/aud-nzd-trading-signal-5m-algo-fx) (Tối ưu cho sàn FX)
+   - Các thuật toán cho khung M1.
+       - Mô hình MA Heads đã optimized cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-trading-signal-1m-algo-fx) (Tối ưu cho sàn FX)
+         
+2. Các thuật toán giao dịch thuộc mô hình Market Structure Validate và R/S Detector (MSV).
+   - Các thuật toán cho khung M1.
+       - Mô hình MSV đã optimized cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-m1-trading-MSV-algorithm-fx) (Tối ưu cho sàn FX)
    
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
 1. [Bot gửi tín hiệu qua Telegram.](https://github.com/phucoding286/telegram-trading-signal-bot) (Chỉ hổ trợ cho các Hệ thống tối ưu cho sàn FX) (Created by Phu)
