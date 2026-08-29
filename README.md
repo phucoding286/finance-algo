@@ -8,6 +8,7 @@
        - Mô hình MA Heads đã optimized cho AUD/NZD, khung M5 [```Link repo```](https://github.com/phucoding286/aud-nzd-trading-signal-5m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
    - Các thuật toán cho khung M1.
        - Mô hình MA Heads đã optimized cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-trading-signal-1m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
+       - Mô hình MA Heads đã optimized cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-trading-signal-1m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
          
 2. Các thuật toán giao dịch thuộc mô hình Market Structure Validate và R/S Detector (MSV).
    - Các thuật toán cho khung M1.
