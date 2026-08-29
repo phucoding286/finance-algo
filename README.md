@@ -16,7 +16,7 @@
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
 1. [Bot gửi tín hiệu qua Telegram.](https://github.com/phucoding286/telegram-trading-signal-bot) (Chỉ hổ trợ MA Heads algorithm) (Created by Phu)
 2. [Bot tự động trade, MT5/Exness.](https://github.com/phucoding286/exness-bot-trade) (Hổ trợ tất cả thuật toán trên)
-3. [Portfolio Backtest, Hổ trợ backtest các thuật toán trong danh mục và thống kê hiệu suất tổng thể.](https://github.com/phucoding286/portfolio-backtest)
+3. [Portfolio Backtest, Hổ trợ backtest các thuật toán trong danh mục và thống kê hiệu suất tổng thể.](https://github.com/phucoding286/portfolio-backtest) (Hổ trợ tất cả thuật toán trên)
 
 ## Hướng dẫn sử dụng chi tiết và các lưu ý.
 1. Đường dẫn ```C:\SIGNAL_LOG``` chính là folder chứa các file cache tín hiệu của tất cả thuật toán định lượng ở trên, nếu sau này có lỗi hay vấn đề gì có thể xóa folder này để reset lại.
