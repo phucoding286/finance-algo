@@ -14,6 +14,8 @@
 2. Các thuật toán giao dịch thuộc mô hình Market Structure Validate và R/S Detector (MSV).
    - Các thuật toán cho khung M1.
        - Mô hình MSV đã optimized cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-m1-trading-MSV-algorithm-fx) (Tối ưu cho sàn FX)
+       - Mô hình MSV đã optimized cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-trading-signal-1m-MSV-algo-fx) (Tối ưu cho sàn FX)
+       - Mô hình MSV đã optimized cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/uk100-trading-signal-1m-MSV-algo-fx) (Tối ưu cho sàn FX)
    
 ## Các công cụ, bot trade, giúp hổ trợ tự động trade.
 1. [Bot gửi tín hiệu qua Telegram.](https://github.com/phucoding286/telegram-trading-signal-bot) (Chỉ hổ trợ MA Heads algorithm) (Created by Phu)
