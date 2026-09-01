@@ -1,6 +1,6 @@
 ## Gợi ý, truy cập nguồn [```HistData.com```](https://www.histdata.com/) để tải các loại dữ liệu cặp tiền mới nhất.
 
-1. Các thuật toán giao dịch thuộc mô hình MA Heads và R/S Detector (Khuyên dùng).
+1. Các thuật toán giao dịch thuộc mô hình MA Heads và R/S Detector.
    - Các thuật toán cho khung M5.
        - Mô hình MA Heads đã optimized cho EUR/USD, khung M5 [```Link repo```](https://github.com/phucoding286/eur-trading-signal-5m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
        - Mô hình MA Heads đã optimized cho CAD/JPY, khung M5 [```Link repo```](https://github.com/phucoding286/cad-jpy-trading-signal-5m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
@@ -11,13 +11,13 @@
        - Mô hình MA Heads đã optimized cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-trading-signal-1m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
        - Mô hình MA Heads đã optimized cho UK100, khung M1 [```Link repo```](https://github.com/phucoding286/uk100-trading-signal-1m-MaHeads-algo-fx) (Tối ưu cho sàn FX)
          
-2. Các thuật toán giao dịch thuộc mô hình Market Structure Validate và R/S Detector (MSV) (Không khuyên dùng).
+2. Các thuật toán giao dịch thuộc mô hình Market Structure Validate và R/S Detector (MSV)
    - Các thuật toán cho khung M1.
        - Mô hình MSV đã optimized cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-m1-trading-MSV-algorithm-fx) (Tối ưu cho sàn FX)
        - Mô hình MSV đã optimized cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-trading-signal-1m-MSV-algo-fx) (Tối ưu cho sàn FX)
        - Mô hình MSV đã optimized cho UK100, khung M1 [```Link repo```](https://github.com/phucoding286/uk100-trading-signal-1m-MSV-algo-fx) (Tối ưu cho sàn FX)
     
-3. Nhánh các thuật toán thích nghi nhanh liên tục với thị trường (Khuyên dùng).
+3. Nhánh các thuật toán thích nghi nhanh liên tục với thị trường.
    - Các thuật toán cho khung M1.
        - Mô hình MA Heads fast-adaptive cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-m1-trading-MaHeads-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
        - Mô hình MA Heads fast-adaptive cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-m1-trading-MaHeads-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
