@@ -22,6 +22,9 @@
        - Mô hình MA Heads fast-adaptive cho XAU/USD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-m1-trading-MaHeads-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
        - Mô hình MA Heads fast-adaptive cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-m1-trading-MaHeads-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
        - Mô hình MA Heads fast-adaptive cho UK100, khung M1 [```Link repo```](https://github.com/phucoding286/uk100-m1-trading-MaHeads-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
+       - Mô hình MSV fast-adaptive cho XAUUSD, khung M1 [```Link repo```](https://github.com/phucoding286/xau-m1-trading-MSV-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
+       - Mô hình MSV fast-adaptive cho USTEC, khung M1 [```Link repo```](https://github.com/phucoding286/ustec-m1-trading-MSV-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
+       - Mô hình MSV fast-adaptive cho UK100, khung M1 [```Link repo```](https://github.com/phucoding286/uk100-m1-trading-MSV-fast-adaptive-algorithm-fx) (Tối ưu cho sàn FX)
     
 ## Lưu ý khi chạy nhiều mô hình song song.
 1. Nên đặt lot theo risk là số tiền risk cho cho tổng số thuật toán bạn muốn chạy trên mỗi lệnh của mỗi thuật toán mà bạn chấp nhận, điều này giúp phân phối toán học chính xác hơn.
